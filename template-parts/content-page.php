@@ -35,7 +35,6 @@ endif;
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-			<?php echo do_shortcode('[su_subpages depth="1" p="" class="float-right col-md-3 shadow-sm p-5 ml-3 mb-3 bg-white"]');?>
 			<?php
 			the_content();
 
