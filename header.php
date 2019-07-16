@@ -52,7 +52,7 @@
       <div class="container">
           <div class="row ">
             <div class="col-lg-12 col-xl-12 ">
-              <img width="300" src="https://research.museums.cam.ac.uk/images/ucm-logo.png" class="img-fluid align-self-center mr-3 float-left thumb-post bg-white p-3 shadow-lg bg-black">            </div>
+              <img width="300" src="/wp-content/themes/staff-pages-theme/images/ucm.png" class="img-fluid align-self-center mr-3 float-left thumb-post bg-white p-3 shadow-lg bg-black">            </div>
             </div>
           </div>
       </div>
