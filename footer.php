@@ -16,15 +16,15 @@
 	<div class="bg-white p-2">
 			<div class="row mx-auto">
 					<div class="mx-auto mt-3 " id="sponsors">
-							<a href="https://kettlesyard.org"><img class="img-responsive" alt="Kettle's Yard logo" src="/wp-content/themes/ucm-theme-staff-pages/images/ky.jpg"></a>
-							<a href="https://maa.cam.ac.uk"><img class="img-responsive" alt="Museum of Arch and Anth logo" src="/wp-content/themes/ucm-theme-staff-pages/images/maa.jpeg"></a>
-							<a href="https://botanic.cam.ac.uk"><img class="img-responsive" alt="Botanical Garden logo" src="/wp-content/themes/ucm-theme-staff-pages/images/cubg-logo.jpg"></a>
-							<a href="https://fitzmuseum.cam.ac.uk"><img class="img-responsive" alt="Fitzwilliam Museum logo" src="/wp-content/themes/ucm-theme-staff-pages/images/FitzwilliamLogo.png"></a>
-							<a href="https://sedgwickmuseum.org"><img class="img-responsive" alt="Sedgwick Museum logo" src="/wp-content/themes/ucm-theme-staff-pages/images/sedgwick.jpg"></a>
-							<a href="https://classics.cam.ac.uk"><img class="img-responsive" alt="Classical Archaeology Museum logo" src="/wp-content/themes/ucm-theme-staff-pages/images/classarch.png"></a>
-							<a href="https://www.spri.cam.ac.uk/museum/"><img class="img-responsive" alt="Polar Research Museum logo" src="/wp-content/themes/ucm-theme-staff-pages/images/polar.jpg"></a>
-							<a href="http://www.sites.hps.cam.ac.uk/whipple/"><img class="img-responsive" alt="Whipple Museum logo" src="/wp-content/themes/ucm-theme-staff-pages/images/whipple.jpg"></a>
-							<a href="https://www.museum.zoo.cam.ac.uk/"><img class="img-responsive" alt="Museum of Zoology logo" src="/wp-content/themes/ucm-theme-staff-pages/images/zoology.jpg"></a>
+							<a href="https://kettlesyard.org"><img class="img-responsive" alt="Kettle's Yard logo" src="/wp-content/themes/staff-pages-theme/images/ky.jpg"></a>
+							<a href="https://maa.cam.ac.uk"><img class="img-responsive" alt="Museum of Arch and Anth logo" src="/wp-content/themes/staff-pages-theme/images/maa.jpeg"></a>
+							<a href="https://botanic.cam.ac.uk"><img class="img-responsive" alt="Botanical Garden logo" src="/wp-content/themes/staff-pages-theme/images/cubg-logo.jpg"></a>
+							<a href="https://fitzmuseum.cam.ac.uk"><img class="img-responsive" alt="Fitzwilliam Museum logo" src="/wp-content/themes/staff-pages-theme/images/FitzwilliamLogo.png"></a>
+							<a href="https://sedgwickmuseum.org"><img class="img-responsive" alt="Sedgwick Museum logo" src="/wp-content/themes/staff-pages-theme/images/sedgwick.jpg"></a>
+							<a href="https://classics.cam.ac.uk"><img class="img-responsive" alt="Classical Archaeology Museum logo" src="/wp-content/themes/staff-pages-theme/images/classarch.png"></a>
+							<a href="https://www.spri.cam.ac.uk/museum/"><img class="img-responsive" alt="Polar Research Museum logo" src="/wp-content/themes/staff-pages-theme/images/polar.jpg"></a>
+							<a href="http://www.sites.hps.cam.ac.uk/whipple/"><img class="img-responsive" alt="Whipple Museum logo" src="/wp-content/themes/staff-pages-theme/images/whipple.jpg"></a>
+							<a href="https://www.museum.zoo.cam.ac.uk/"><img class="img-responsive" alt="Museum of Zoology logo" src="/wp-content/themes/staff-pages-theme/images/zoology.jpg"></a>
 					</div>
 
 			</div>
