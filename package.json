@@ -4,6 +4,10 @@
   "description": "Bootstrap 4 WordPress Theme",
   "main": "",
   "author": "Daniel Pett",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UniversityofCambridgeMuseums/staff-pages-theme/"
+  },
   "devDependencies": {
     "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.5",
